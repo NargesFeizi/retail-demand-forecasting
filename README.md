@@ -88,11 +88,10 @@ The Power BI file is available in the `powerbi` folder.
 ## Repository Structure
 ```
 retail-demand-forecasting/
-├── data/       # Source data
 ├── docs/       # Data source documentation
-├── excel/      # Excel, Power Query, and cleaned dataset files
+├── excel/      # Excel and Power Query files
 ├── images/     # Dashboard image
-├── powerbi/    # Power BI dashboard
+├── powerbi/    # Power BI dashboard 
 ├── sql/        # SQL scripts
 └── README.md
 ```
