@@ -85,6 +85,13 @@ The Power BI file is available in the `powerbi` folder.
 - Product rankings differ between revenue and unit sales, showing that the highest-volume products are not necessarily the highest-revenue products.
 - The top-product and country analyses highlight where product demand and geographic sales concentration are strongest.
 
+## Business Recommendations
+
+- Prioritize inventory planning for top-selling products, particularly during peak sales months.
+- Monitor high-revenue products separately from high-volume products, as sales volume does not always translate into higher revenue.
+- Consider reducing geographic dependence on the UK by exploring growth opportunities in other high-performing markets.
+- Use monthly sales patterns to support seasonal inventory and sales planning. 
+
 ## Repository Structure
 ```
 retail-demand-forecasting/
